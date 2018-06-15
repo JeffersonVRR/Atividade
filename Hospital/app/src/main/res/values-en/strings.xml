@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hospital</string>
+    <string name="numLeito">Bed Number</string>
+    <string name="nomePaciente">Patients Name</string>
+    <string name="pressArterial">Blood pressure</string>
+    <string name="batCardiaco">Heart beats</string>
+    <string name="tempCorpo">Body Temperature</string>
+    <string name="salva">Save</string>
+    <string name="lista">List</string>
+    <string name="deleta">Delete</string>
+</resources>
